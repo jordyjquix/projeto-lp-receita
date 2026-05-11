@@ -18,7 +18,7 @@ body{
     box-sizing: border-box;
     width: 800px;
     padding: 24px;
-    background-color: #F0E8C2;
+    background-color: #D8A79F;
     border-radius: 24px;
     margin: 48px auto;
 }
@@ -57,4 +57,20 @@ h1, h2 {
 
 ul{
     padding-left: 24px;
+}
+
+footer {
+    text-align: center;
+    padding: 12px;
+    font-size: 14px;
+    color: #291B1A;
+}
+
+.foot {
+    color: #291B1A;
+    background-color: #D8A79F;
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 12px;
 }
